@@ -1,5 +1,14 @@
 # Google Gemini Changelog
 
+## [Maintenance] - 2026-01-01
+
+- 🪟 Add support for Windows platform.
+- ⬆️ Bump all dependencies to the latest.
+
+## [Update Models] - 2025-08-04
+
+- ⬆️ Update Gemini 2.5 series models from preview to production ready versions.
+
 ## [Add Safety Settings] - 2025-07-03
 
 - 🛡️ Now users can set their safety filtering options as they need.
